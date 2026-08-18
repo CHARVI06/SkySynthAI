@@ -1,0 +1,28 @@
+img_name,label,category,image_path
+49(2).jpg,49,Severe Cyclonic Storm,data\raw\insat3d_raw_cyclone_ds\CYCLONE_DATASET_FINAL\49(2).jpg
+36(2).jpg,36,Cyclonic Storm,data\raw\insat3d_raw_cyclone_ds\CYCLONE_DATASET_FINAL\36(2).jpg
+43(2).jpg,43,Cyclonic Storm,data\raw\insat3d_raw_cyclone_ds\CYCLONE_DATASET_FINAL\43(2).jpg
+118.jpg,118,Very Severe+,data\raw\insat3d_raw_cyclone_ds\CYCLONE_DATASET_FINAL\118.jpg
+58(1).jpg,58,Severe Cyclonic Storm,data\raw\insat3d_raw_cyclone_ds\CYCLONE_DATASET_FINAL\58(1).jpg
+55(2).jpg,55,Severe Cyclonic Storm,data\raw\insat3d_raw_cyclone_ds\CYCLONE_DATASET_FINAL\55(2).jpg
+42(3).jpg,42,Cyclonic Storm,data\raw\insat3d_raw_cyclone_ds\CYCLONE_DATASET_FINAL\42(3).jpg
+48(1).jpg,48,Severe Cyclonic Storm,data\raw\insat3d_raw_cyclone_ds\CYCLONE_DATASET_FINAL\48(1).jpg
+44(1).jpg,44,Cyclonic Storm,data\raw\insat3d_raw_cyclone_ds\CYCLONE_DATASET_FINAL\44(1).jpg
+32.jpg,32,Depression,data\raw\insat3d_raw_cyclone_ds\CYCLONE_DATASET_FINAL\32.jpg
+64.jpg,64,Very Severe+,data\raw\insat3d_raw_cyclone_ds\CYCLONE_DATASET_FINAL\64.jpg
+38.jpg,38,Cyclonic Storm,data\raw\insat3d_raw_cyclone_ds\CYCLONE_DATASET_FINAL\38.jpg
+59(1).jpg,59,Severe Cyclonic Storm,data\raw\insat3d_raw_cyclone_ds\CYCLONE_DATASET_FINAL\59(1).jpg
+85.jpg,85,Very Severe+,data\raw\insat3d_raw_cyclone_ds\CYCLONE_DATASET_FINAL\85.jpg
+50.jpg,50,Severe Cyclonic Storm,data\raw\insat3d_raw_cyclone_ds\CYCLONE_DATASET_FINAL\50.jpg
+53.jpg,53,Severe Cyclonic Storm,data\raw\insat3d_raw_cyclone_ds\CYCLONE_DATASET_FINAL\53.jpg
+67.jpg,67,Very Severe+,data\raw\insat3d_raw_cyclone_ds\CYCLONE_DATASET_FINAL\67.jpg
+68.jpg,68,Very Severe+,data\raw\insat3d_raw_cyclone_ds\CYCLONE_DATASET_FINAL\68.jpg
+50(1).jpg,50,Severe Cyclonic Storm,data\raw\insat3d_raw_cyclone_ds\CYCLONE_DATASET_FINAL\50(1).jpg
+74(1).jpg,74,Very Severe+,data\raw\insat3d_raw_cyclone_ds\CYCLONE_DATASET_FINAL\74(1).jpg
+45(3).jpg,45,Cyclonic Storm,data\raw\insat3d_raw_cyclone_ds\CYCLONE_DATASET_FINAL\45(3).jpg
+46(1).jpg,46,Cyclonic Storm,data\raw\insat3d_raw_cyclone_ds\CYCLONE_DATASET_FINAL\46(1).jpg
+30(1).jpg,30,Depression,data\raw\insat3d_raw_cyclone_ds\CYCLONE_DATASET_FINAL\30(1).jpg
+86(1).jpg,86,Very Severe+,data\raw\insat3d_raw_cyclone_ds\CYCLONE_DATASET_FINAL\86(1).jpg
+40(2).jpg,40,Cyclonic Storm,data\raw\insat3d_raw_cyclone_ds\CYCLONE_DATASET_FINAL\40(2).jpg
+84.jpg,84,Very Severe+,data\raw\insat3d_raw_cyclone_ds\CYCLONE_DATASET_FINAL\84.jpg
+115.jpg,115,Very Severe+,data\raw\insat3d_raw_cyclone_ds\CYCLONE_DATASET_FINAL\115.jpg
