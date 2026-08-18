@@ -48,7 +48,6 @@ generated_frames/
 
 # Large datasets - do NOT commit raw satellite data
 data/raw/*
-data/processed/*
 data/sequences/*
 !data/README.md
 
