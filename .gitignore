@@ -1,0 +1,70 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Python tooling
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment / secrets
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
+logs/
+
+# Generated outputs
+outputs/
+results/
+runs/
+checkpoints/
+generated_frames/
+
+# Large datasets - do NOT commit raw satellite data
+data/raw/*
+data/processed/*
+data/sequences/*
+!data/README.md
+
+# Model weights / checkpoints
+*.pt
+*.pth
+*.ckpt
+*.onnx
+models/*
+!models/README.md
+
+# Temporary files
+*.tmp
+*.temp
+*.cache
+
+# Local databases
+*.db
+*.sqlite
